@@ -1,7 +1,0 @@
----
-label: "soc_blinky"
-quality: "unknown"
-project:
-- id: "main"
-  path: "edge_node.slcp"
-  output: "."
